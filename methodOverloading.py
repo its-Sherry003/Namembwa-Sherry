@@ -63,7 +63,7 @@ while True:
         lecturer = Lecturer(name)
         lecturer.prompt()
     elif choice == "3":
-        print("Thank you!")
+        print("-----Thank you!-----")
         break
     else:
         print("Select from the menu options")
